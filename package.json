@@ -1,0 +1,22 @@
+{
+  "name": "word-definition-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1 -p 8081"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pashashchuka/word-definition-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pashashchuka/word-definition-/issues"
+  },
+  "homepage": "https://github.com/Pashashchuka/word-definition-#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
